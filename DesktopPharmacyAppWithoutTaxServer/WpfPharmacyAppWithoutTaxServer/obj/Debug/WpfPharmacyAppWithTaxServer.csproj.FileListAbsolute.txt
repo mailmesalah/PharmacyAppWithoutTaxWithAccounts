@@ -1,0 +1,3 @@
+D:\Packages\PharmacyAppWithTax\DesktopPharmacyAppWithTaxServer\WpfPharmacyAppWithTaxServer\bin\Debug\WpfServerApp.exe.config
+D:\Packages\PharmacyAppWithTax\DesktopPharmacyAppWithTaxServer\WpfPharmacyAppWithTaxServer\obj\Debug\WpfServerApp.exe
+D:\Packages\PharmacyAppWithTax\DesktopPharmacyAppWithTaxServer\WpfPharmacyAppWithTaxServer\obj\Debug\WpfServerApp.pdb
